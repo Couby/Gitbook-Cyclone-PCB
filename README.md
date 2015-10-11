@@ -1,6 +1,6 @@
 # Documentation Cyclone PCB Factory
 
-![Photo](../img_all/CycloneV2.jpg)
+![Photo](img_all/CycloneV2.jpg)
 
 
 Instructions de montage
@@ -36,7 +36,7 @@ Si ce projet vous intéresse, rejoignez notre mailing liste :
 Crédits
 --
 [Instructions originales](http://diwo.bq.com/como-montar-cyclone-paso-a-paso) par **bq**. Le PDF a été porté en wiki par la communauté Cyclone.  
-![CC-BY-SA](../img_all/bq-logo-cc-sa-small-150px.png)  
+![CC-BY-SA](img_all/bq-logo-cc-sa-small-150px.png)  
 License: **Attribution - Share Alike - Creative Commons (<http://creativecommons.org/licenses/by-sa/4.0/>)**  
 
 Contributeurs
