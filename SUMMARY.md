@@ -6,5 +6,5 @@
 * [Montage axe Z](Montage-axe-Z.md)
 * [Câblage électronique](Connexion-electronique.md)
 * [Bill of materials](Bill-of-materials.md)
-* Liste de fournisseurs
+* [Liste de fournisseurs](Liste-de-fournisseurs.md)
 
