@@ -1,5 +1,5 @@
 # Summary
 
 * [Sommaire](README.md)
-* [Montage axe Y](montage-axe-y.md)
+* [Montage axe Y](Montage-axe-Y.md)
 
