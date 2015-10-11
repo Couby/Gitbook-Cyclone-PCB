@@ -127,6 +127,5 @@ Bienvenue dans cette première partie du processus d'assemblage de votre Cyclone
 ![Photo](../img_Y/21a.jpg)  
 ![Photo](../img_Y/21b.jpg)  
 
-Bien joué ! Passez à l'étape 2, [le montage de l'axe X](Montage-axe-X.md)  
-
+Bien joué ! Passez à l'étape 2, [le montage de l'axe X](Montage-axe-X.md).
 
