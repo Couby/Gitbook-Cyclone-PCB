@@ -13,7 +13,7 @@ Ensuite, suivez les instructions du manuel dans l'ordre suivant :
 1. [**Montage de l'axe Z**](Montage-axe-Z.md)  
 1. [**Câblage de l'électronique**](Connexion-electronique.md)  
 
-**[Liste des fournisseurs](Liste-des-fournisseurs.md)**
+**[Liste des fournisseurs](Liste-de-fournisseurs.md)**
 
 
 
