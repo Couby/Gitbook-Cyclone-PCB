@@ -5,7 +5,7 @@
 
 Instructions de montage
 --
-Rassemblez les vitamines à partir de la [**bill of materials**](Bill-of-materials) et **imprimez les pièces en 3D nécessaires** ( utilisez les fichiers de la section [Releases](https://github.com/carlosgs/Cyclone-PCB-Factory/releases) sur GitHub).  
+Rassemblez les vitamines à partir de la [**bill of materials**](Bill-of-materials.md) et **imprimez les pièces en 3D nécessaires** ( utilisez les fichiers de la section [Releases](https://github.com/carlosgs/Cyclone-PCB-Factory/releases) sur GitHub).  
 Ensuite, suivez les instructions du manuel dans l'ordre suivant :  
 
 1. [**Montage de l'axe Y**](Montage-axe-Y.md)  
@@ -13,7 +13,7 @@ Ensuite, suivez les instructions du manuel dans l'ordre suivant :
 1. [**Montage de l'axe Z**](Montage-axe-Z.md)  
 1. [**Câblage de l'électronique**](Connexion-electronique.md)  
 
-**[Liste des fournisseurs](liste-des-fournisseurs)**
+**[Liste des fournisseurs](Liste-des-fournisseurs.md)**
 
 
 
