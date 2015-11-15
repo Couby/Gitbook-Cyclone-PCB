@@ -37,7 +37,7 @@ Tiges lisses
 --
 | Objet | Quantité |
 |---|---|
-| 8x210mm | 1 |
+| 8x210mm | 2 |
 | 8x150mm | 2 |
 | 8x250mm | 2 |
 
